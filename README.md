@@ -8,7 +8,7 @@ Get started by [creating a new file](https://github.com/RahulML2505GitHub/D2/new
 
 **…or create a new repository on the command line**
 
-echo "# D2" >> README.md
+echo "# D2" >> README.md\n
 git init
 git add README.md
 git commit -m "first commit"
