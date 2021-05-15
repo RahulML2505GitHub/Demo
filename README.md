@@ -23,7 +23,7 @@ git push -u origin main
 
 **…or push an existing repository from the command line**
 
-```bash
+```
 git remote add origin https://github.com/RahulML2505GitHub/Demo.git
 git branch -M main
 git push -u origin main
