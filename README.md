@@ -1,7 +1,7 @@
 # Demo
 
-! [The ScreenShort]
-(./screenshort.png)
+![The ScreenShort]
+(https:/RahulML2505GitHub/Demo/screenshort.png)
 
 **Quick setup — if you’ve done this kind of thing before**
 
