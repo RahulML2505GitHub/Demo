@@ -8,7 +8,7 @@ or **` HTTPS | SSH `**
 
 Get started by [creating a new file](https://github.com/RahulML2505GitHub/Demo/new/main) or [uploading an existing file](https://github.com/RahulML2505GitHub/Demo/upload). We recommend every repository include a [README](https://github.com/RahulML2505GitHub/Demo/new/main?readme=1), [LICENSE](https://github.com/RahulML2505GitHub/Demo/new/main?filename=LICENSE.md), and [.gitignore](https://github.com/RahulML2505GitHub/Demo/new/main?filename=.gitignore).
 
-**…or create a new repository on the command line**
+- [ ] **…or create a new repository on the command line**
 
 ```
 echo "# D2" >> README.md
@@ -28,7 +28,7 @@ git branch -M main
 git push -u origin main
 ```
 
-**…or import code from another repository**
+- [ ] **…or import code from another repository**
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
