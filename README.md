@@ -42,3 +42,8 @@ Import code
 import os
 os.listdir()
 ```
+
+Count | Language
+----------------
+First | Python
+Second | Java
