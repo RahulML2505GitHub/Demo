@@ -44,6 +44,6 @@ os.listdir()
 ```
 
 Count | Language
-----------------
+-------- | --------
 First | Python
 Second | Java
