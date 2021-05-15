@@ -2,7 +2,7 @@
 
 **Quick setup — if you’ve done this kind of thing before**
 
-or **[ HTTPS | SSH ] ```bash https://github.com/RahulML2505GitHub/Demo.git```**
+or **[ HTTPS | SSH ]** ```bash https://github.com/RahulML2505GitHub/Demo.git```
 
 Get started by [creating a new file](https://github.com/RahulML2505GitHub/Demo/new/main) or [uploading an existing file](https://github.com/RahulML2505GitHub/Demo/upload). We recommend every repository include a [README](https://github.com/RahulML2505GitHub/Demo/new/main?readme=1), [LICENSE](https://github.com/RahulML2505GitHub/Demo/new/main?filename=LICENSE.md), and [.gitignore](https://github.com/RahulML2505GitHub/Demo/new/main?filename=.gitignore).
 
