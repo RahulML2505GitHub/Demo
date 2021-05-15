@@ -37,3 +37,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 [`
 Import code
 `](https://github.com/RahulML2505GitHub/Demo/import)
+
+```python
+import os
+os.listdir()
+```
