@@ -12,7 +12,7 @@ Get started by [creating a new file](https://github.com/RahulML2505GitHub/Demo/n
 
 - [ ] **…or create a new repository on the command line**
 
-```
+```clipboard
 echo "# D2" >> README.md
 git init
 git add README.md
