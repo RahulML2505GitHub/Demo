@@ -1,8 +1,7 @@
 # Demo
 
-**Quick setup — if you’ve done this kind of thing before
-or	[ HTTPS | SSH ]
-`https://github.com/RahulML2505GitHub/D2.git`**
+**Quick setup — if you’ve done this kind of thing before**
+or	[ HTTPS | SSH ] `https://github.com/RahulML2505GitHub/D2.git`
 
 Get started by [creating a new file](https://github.com/RahulML2505GitHub/D2/new/main) or [uploading an existing file](https://github.com/RahulML2505GitHub/D2/upload). We recommend every repository include a [README](https://github.com/RahulML2505GitHub/D2/new/main?readme=1), [LICENSE](https://github.com/RahulML2505GitHub/D2/new/main?filename=LICENSE.md), and [.gitignore](https://github.com/RahulML2505GitHub/D2/new/main?filename=.gitignore).
 
