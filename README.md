@@ -1,6 +1,7 @@
 # Demo
 
-! [The ScreenShort](sreenshort.png)
+! [The ScreenShort]
+(./screenshort.png)
 
 **Quick setup — if you’ve done this kind of thing before**
 
