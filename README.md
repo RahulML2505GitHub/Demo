@@ -1,9 +1,6 @@
 # Demo
 
-! [The ScreenShort]
-(https://github.com/RahulML2505GitHub/Demo/blob/main/screenshort.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![The ScreenShort](https://github.com/RahulML2505GitHub/Demo/blob/main/screenshort.png)
 
 **Quick setup — if you’ve done this kind of thing before**
 
