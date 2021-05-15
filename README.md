@@ -20,7 +20,7 @@ git remote add origin https://github.com/RahulML2505GitHub/Demo.git
 git push -u origin main
 ```
 
-**…or push an existing repository from the command line**
+- [] **…or push an existing repository from the command line**
 
 ```
 git remote add origin https://github.com/RahulML2505GitHub/Demo.git
