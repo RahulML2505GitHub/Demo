@@ -1,6 +1,6 @@
 # Demo
 
-![The ScreenShort](https://github.com/RahulML2505GitHub/Demo/blob/main/screenshort.png)
+![The Screenshort](./screenshort.png)
 
 **Quick setup — if you’ve done this kind of thing before**
 
