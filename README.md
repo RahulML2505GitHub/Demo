@@ -34,16 +34,13 @@ git push -u origin main
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-[`
-Import code
-`](https://github.com/RahulML2505GitHub/Demo/import)
+[`Import code`](https://github.com/RahulML2505GitHub/Demo/import)
 
 ```python
 import os
 os.listdir()
 ```
 
-Count | Language
--------- | --------
-First | Python
-Second | Java
+| Subject | Product | Availability |
+| --- | --- | --- |
+| null | Python | X |
