@@ -43,4 +43,5 @@ os.listdir()
 
 | Subject | Product | Availability |
 | --- | --- | --- |
-| null | Python | X |
+| null | Python | x |
+| null | Java |   |
