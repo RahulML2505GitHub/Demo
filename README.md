@@ -10,7 +10,7 @@ or **` HTTPS | SSH `**
 
 Get started by [creating a new file](https://github.com/RahulML2505GitHub/Demo/new/main) or [uploading an existing file](https://github.com/RahulML2505GitHub/Demo/upload). We recommend every repository include a [README](https://github.com/RahulML2505GitHub/Demo/new/main?readme=1), [LICENSE](https://github.com/RahulML2505GitHub/Demo/new/main?filename=LICENSE.md), and [.gitignore](https://github.com/RahulML2505GitHub/Demo/new/main?filename=.gitignore).
 
-- [ ] **…or create a new repository on the command line**
+1. **…or create a new repository on the command line**
 
 ```
 echo "# D2" >> README.md
@@ -22,7 +22,7 @@ git remote add origin https://github.com/RahulML2505GitHub/Demo.git
 git push -u origin main
 ```
 
-- [ ] **…or push an existing repository from the command line**
+2. **…or push an existing repository from the command line**
 
 ```
 git remote add origin https://github.com/RahulML2505GitHub/Demo.git
@@ -30,7 +30,7 @@ git branch -M main
 git push -u origin main
 ```
 
-- [ ] **…or import code from another repository**
+3. **…or import code from another repository**
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
@@ -40,8 +40,3 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 import os
 os.listdir()
 ```
-
-| Subject | Product | Availability |
-| --- | --- | --- |
-| null | Python | x |
-| null | Java |   |
